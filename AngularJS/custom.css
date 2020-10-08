@@ -1,0 +1,74 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #e9ecef;
+}
+
+.fab {
+    color: #7FC4FD;
+}
+
+.fas {
+    color: #D8C281;
+}
+
+.jumbotron {
+    height: 70vh;
+}
+
+.jumbotron h1 {
+    font-weight: bold;
+    margin-top: 75px;
+}
+
+.jumbotron .btn {
+    background-color: #D8C281;
+    color: #313535;
+    border: none;
+    border-radius: 1.5rem;
+    font-weight: 500;
+}
+
+.users {
+    display: flex;
+    justify-content: center;
+}
+
+.ng-scope {
+    background-color: #333;
+}
+
+.users-h5 {
+    color: #D8C281;
+}
+
+.users-p-1 {
+    color: #fff;
+}
+
+.users-p-2 {
+    color: #D8C281;
+}
+
+.content {
+    height: 500px;
+    justify-content: center;
+    background-color: #e9ecef;
+}
+
+footer {
+    color: #D8C281;
+    background-color: #313535;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-link {
+    border-color: #D8C281;
+    border-radius: 2rem;
+    border-width: 3px;
+    border-style: solid;
+    font-weight: 700;
+    margin-right: 15px;
+}
